@@ -6,9 +6,9 @@
 }
 
 :root {
-  --bg-color: #121214;
+  --bg-color: #4e0332;
 
-  --base-color: 194;
+  --base-color: 350;
   --bg-primary-ligth: hsla(var(--base-color), 100%, 63%, 0.13);
   --primary-color: hsl(var(--base-color), 100%, 63%);
   --text-color:#FFFFFF;
@@ -46,7 +46,7 @@ button {
 
 .play svg path,
 .pause svg path,
-.soud-on svg path {
+.sound-on svg path {
   fill: var(--primary-color);
 }
 
